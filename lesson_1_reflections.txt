@@ -1,0 +1,6 @@
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+1. Compare versions
+2. Error detection
+3. Reverting to an older version
+4. Finding out who changed what
+5. Different people working on different versions
